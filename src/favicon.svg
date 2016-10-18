@@ -6,21 +6,45 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg5206"
    viewBox="0 0 32 32.000001"
    height="32"
-   width="32">
+   width="32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="favicon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1914"
+     inkscape:window-height="1061"
+     id="namedview4216"
+     showgrid="false"
+     inkscape:zoom="9.2365823"
+     inkscape:cx="5.9801072"
+     inkscape:cy="21.604397"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5781" />
   <defs
      id="defs5208">
     <linearGradient
        id="linearGradient5786">
       <stop
-         style="stop-color:#ff3365;stop-opacity:1"
+         style="stop-color:#e8b661;stop-opacity:1"
          offset="0"
          id="stop5788" />
       <stop
-         style="stop-color:#ff3365;stop-opacity:0"
+         style="stop-color:#e8b661;stop-opacity:0"
          offset="1"
          id="stop5790" />
     </linearGradient>
@@ -61,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
